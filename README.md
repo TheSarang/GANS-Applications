@@ -1,6 +1,6 @@
 ![banner](https://github.com/nashory/gans-awesome-applications/blob/master/jpg/gans.jpg)
 
-# gans-awesome-applications
+# GANS-awesome-applications
 Curated list of awesome GAN applications and demonstrations.  
 
 __Note: General GAN papers targeting simple image generation such as DCGAN, BEGAN etc. are not included in the list. I mainly care about applications.__
