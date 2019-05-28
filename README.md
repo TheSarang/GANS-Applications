@@ -197,7 +197,7 @@ ___
 
 
 ## Author
-Minchul Shin, [@nashory](https://github.com/nashory)  
+Minchul Shin, [@nashory](https://github.com/nashory)   
 
 __Any recommendations to add to the list are welcome :)__  
 __Feel free to make pull requests!__
